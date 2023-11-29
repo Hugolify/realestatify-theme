@@ -1,22 +1,25 @@
 {
-    "name": "realestatify-theme",
-    "version": "1.0.0",
-    "homepage": "https://www.realestatify.io",
-    "repository": "https://github.com/hugolify/realestatify-theme",
-    "bugs": {
-        "url": "https://github.com/hugolify/realestatify-theme/issues"
-    },
-    "author": {
-        "email": "sebousan@gmail.com",
-        "name": "Sébastien Moulène",
-        "url": "https://www.sebastienmoulene.com/"
-    },
-    "keywords": [
-        "realestatify",
-        "hugolify",
-        "hugo",
-        "hugo-theme",
-        "bootstrap"
-    ],
-    "license": "MIT"
+  "name": "realestatify-theme",
+  "version": "1.0.0",
+  "homepage": "https://www.realestatify.io",
+  "repository": "https://github.com/hugolify/realestatify-theme",
+  "bugs": {
+    "url": "https://github.com/hugolify/realestatify-theme/issues"
+  },
+  "author": {
+    "email": "sebousan@gmail.com",
+    "name": "Sébastien Moulène",
+    "url": "https://www.sebastienmoulene.com/"
+  },
+  "keywords": [
+    "realestatify",
+    "hugolify",
+    "hugo",
+    "hugo-theme",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@hugolify/prettier-config": "^0.3.1"
+  }
 }
